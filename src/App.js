@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Inicio del proyecto</h1>
+      {/* Probando las ramas */}
     </div>
   );
 }
