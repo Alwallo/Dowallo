@@ -6,6 +6,7 @@ function App() {
       <h1>Inicio del proyecto</h1>
       {/* Probando las ramas */}
       {/* Segunda prueba */}
+      {/* HAHAHA */}
     </div>
   );
 }
