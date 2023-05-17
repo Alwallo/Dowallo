@@ -1,0 +1,107 @@
+{   
+    "categorias": [
+    {
+        "nombre": "Ciencia",
+        "preguntas": [
+        {
+            "pregunta": "¿Cuál es la fórmula química del agua?",
+            "imagen": "",
+            "respuestas": [
+              {"respuesta": "H2O2", "correcta": false},
+              {"respuesta": "CO2", "correcta": false},
+              {"respuesta": "H2O", "correcta": true},
+              {"respuesta": "O2", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿Quién descubrió la penicilina?",
+            "imagen": "",
+            "respuestas": [
+              {"respuesta": "Alexander Fleming", "correcta": true},
+              {"respuesta": "Marie Curie", "correcta": false},
+              {"respuesta": "Albert Einstein", "correcta": false},
+              {"respuesta": "Isaac Newton", "correcta": false}
+            ]
+        }]
+    },
+        {
+        "nombre": "Deporte",
+        "preguntas": [
+        {
+            "pregunta": "¿En qué país se originó el fútbol?",
+            "imagen": "",
+            "respuestas": [
+            {"respuesta": "Brasil", "correcta": false},
+            {"respuesta": "Inglaterra", "correcta": true},
+            {"respuesta": "Argentina", "correcta": false},
+            {"respuesta": "España", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿Cuánto dura una maratón?",
+            "imagen": "",
+            "respuestas": [
+                {"respuesta": "42.195 kilómetros", "correcta": true},
+                {"respuesta": "21.097 kilómetros", "correcta": false},
+                {"respuesta": "10 kilómetros", "correcta": false},
+                {"respuesta": "100 kilómetros", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿Qué país ganó la Copa del Mundo 2018?",
+            "imagen": "",
+            "respuestas": [
+                {"respuesta": "Croacia", "correcta": false},
+                {"respuesta": "Brasil", "correcta": false},
+                {"respuesta": "Francia", "correcta": true},
+                {"respuesta": "Alemania", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿Qué deporte se juega con esta pelota?",
+            "imagen": "",
+            "respuestas": [
+                {"respuesta": "Baloncesto", "correcta": true},
+                {"respuesta": "Voleibol", "correcta": false},
+                {"respuesta": "Fútbol", "correcta": false},
+                {"respuesta": "Tennis", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿En qué deporte tienes un touchdown?",
+            "imagen": "",
+            "respuestas": [
+                {"respuesta": "Fútbol Americano", "correcta": true},
+                {"respuesta": "Béisbol", "correcta": false},
+                {"respuesta": "Rugby", "correcta": false},
+                {"respuesta": "Boxeo", "correcta": false}
+            ]
+        }]
+    },
+    {
+        "nombre": "Geografía",
+        "preguntas": [
+        {
+            "pregunta": "¿Cuál es el país más grande del mundo?",
+            "imagen": "",
+            "respuestas": [
+              {"respuesta": "China", "correcta": false},
+              {"respuesta": "Canadá", "correcta": false},
+              {"respuesta": "Rusia", "correcta": true},
+              {"respuesta": "Estados Unidos", "correcta": false}
+            ]
+        },
+        {
+            "pregunta": "¿Qué país tiene forma de bota?",
+            "imagen": "",
+            "respuestas": [
+              {"respuesta": "Italia", "correcta": true},
+              {"respuesta": "España", "correcta": false},
+              {"respuesta": "Grecia", "correcta": false},
+              {"respuesta": "Croacia", "correcta": false}
+            ]
+        }]
+    }
+    ]
+}
+        
