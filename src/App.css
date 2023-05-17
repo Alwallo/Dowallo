@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+:root{
+  --colorPrimario: #0ef6cc;
+  --colorSecundario: #3a4f50;
+  --blanco: #f4fefd;
+  --negro: #1b2223;
+}
+
+body{
+  background-color: var(--negro);
+}
+
+html{
+  font-size: 62.5%;
+}
