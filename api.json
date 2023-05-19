@@ -92,6 +92,16 @@
             ]
         },
         {
+            "pregunta": "¿Cuál es el país más pequeño del mundo?",
+            "imagen": "",
+            "respuestas": [
+              {"respuesta": "Belice", "correcta": false},
+              {"respuesta": "Japón", "correcta": false},
+              {"respuesta": "Australia", "correcta": false},
+              {"respuesta": "Vaticano", "correcta": true}
+            ]
+        },
+        {
             "pregunta": "¿Qué país tiene forma de bota?",
             "imagen": "",
             "respuestas": [
